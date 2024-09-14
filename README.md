@@ -106,7 +106,7 @@ if __name__ == '__main__':
 
 # SERVER
 
-````
+```
 import socket
 def server_program():
     # get the hostname
@@ -136,14 +136,12 @@ def server_program():
 
 if __name__ == '__main__':
     server_program()
+
 ```
 
 ## OUTPUT
 
-
-![CN 2](https://github.com/user-attachments/assets/d1970c43-6376-4ffc-b62a-cef86075f99e)
-
-
+![CN 2](https://github.com/user-attachments/assets/642a20f3-d3be-4d4e-a22b-b6d85db6eaf8)
 
 ## Result:
 
