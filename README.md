@@ -139,7 +139,9 @@ if __name__ == '__main__':
 ```
 
 ## OUTPUT
-![CN 2](https://github.com/user-attachments/assets/bffa8f97-843a-451b-87ea-82321c694132)
+
+
+![CN 2](https://github.com/user-attachments/assets/d1970c43-6376-4ffc-b62a-cef86075f99e)
 
 
 
